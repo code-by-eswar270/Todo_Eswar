@@ -1,4 +1,4 @@
-![Screenshot 2025-07-03 155823](https://github.com/user-attachments/assets/0bb155c2-cffc-4e0c-b686-a3061275d545)---
+
 
 ## 🚀 Project Overview
 
@@ -82,7 +82,8 @@ Maven
 ##📷 Screenshots
 
 ### 🏠 Homepage UI
-![Todopage] (Screenshots/homepage.png)
+![Screenshot 2025-07-03 155823](https://github.com/user-attachments/assets/0bb155c2-cffc-4e0c-b686-a3061275d545)---
+
 
 
 
