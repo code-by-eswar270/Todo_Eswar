@@ -84,9 +84,7 @@ Maven
 todo/
 │
 ├── README.md                # Project documentation
-├── screenshots/             # Screenshots used in README
-│   ├── homepage.png
-│   └── add-task.png
+|
 │
 ├── todo-frontend/           # React frontend
 │   ├── public/
