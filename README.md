@@ -79,6 +79,43 @@ H2 Database
 
 Maven
 
+
+✅ Final Project Folder Structure
+todo/
+│
+├── README.md                # Project documentation
+├── screenshots/             # Screenshots used in README
+│   ├── homepage.png
+│   └── add-task.png
+│
+├── todo-frontend/           # React frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.jsx
+│   │   └── index.js
+│   ├── package.json
+│   └── tailwind.config.js
+│
+└── todo-backend/            # Spring Boot backend
+    ├── src/
+    │   ├── main/
+    │   │   ├── java/
+    │   │   │   └── com/
+    │   │   │       └── Project/
+    │   │   │           └── backend_todo/
+    │   │   │               ├── controller/
+    │   │   │               ├── model/
+    │   │   │               ├── repository/
+    │   │   │               ├── service/
+    │   │   │               └── BackendTodoApplication.java
+    │   │   └── resources/
+    │   │       ├── application.properties
+    │   │       └── static/
+    ├── pom.xml
+    └── mvnw / mvnw.cmd      # Maven wrapper files
+
+
 ##📷 Screenshots
 
 ### 🏠 Homepage UI
