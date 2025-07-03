@@ -1,0 +1,12 @@
+/* Make sure Tailwind CSS is installed and your build tool (like PostCSS) is configured to process @tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Example: Set a background image using Tailwind's utility classes or custom CSS */
+
+/* You can add your custom styles below if needed */
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
